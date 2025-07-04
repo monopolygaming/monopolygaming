@@ -4,5 +4,5 @@
 - Greek (sorry)
 
 # what code thing i kno..
-- Lua, Python, HTML + CSS, a little bit of JavaScript
+- Luau, Python, HTML + CSS, a little bit of JavaScript
 - that's all.
