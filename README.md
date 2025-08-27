@@ -1,5 +1,5 @@
 # hello people!!1
-- i'm some random guy that codes stuff sometimes
+- i'm some random person that codes stuff sometimes
 - i think gaming is very cool and epi c
 - Greek (sorry)
 
